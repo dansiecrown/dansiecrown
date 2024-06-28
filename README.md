@@ -7,10 +7,10 @@ I'm a Software Engineer, Graphics Designers, and Digital Marketer. I'm passionat
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm an alumnus of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - :rainbow: Another fact: I'm an Alumnus of Zuri Training.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 🌱 I currently wwrite JavaScript, Reactjs, ReactNative, NextJs, VueJs, NodeJs and Python.
+- 😊 I’m looking to contribute Open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing dansiecrown@gmail.com.
 - :heart_on_fire: in a long lasting, and crucial relationship with Jesus.
